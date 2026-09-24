@@ -1,2 +1,2 @@
 # PROJETO ESCOLAR - NOTAS DO ALUNO
-Calcular a media da nota dos alunos
+Calcular a média da nota dos alunos
